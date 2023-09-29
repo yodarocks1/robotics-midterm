@@ -1,0 +1,6 @@
+[submodule "problem3/3b/Monocular-Video-Odometery"]
+	path = problem3/3b/Monocular-Video-Odometery
+	url = https://github.com/alishobeiri/Monocular-Video-Odometery.git
+[submodule "problem3/3a/mono_velocity"]
+	path = problem3/3a/mono_velocity
+	url = https://github.com/ZhenboSong/mono_velocity
