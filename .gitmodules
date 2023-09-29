@@ -4,3 +4,6 @@
 [submodule "problem3/3a/mono_velocity"]
 	path = problem3/3a/mono_velocity
 	url = https://github.com/ZhenboSong/mono_velocity
+[submodule "problem4/4b/ORB_SLAM3"]
+	path = problem4/4b/ORB_SLAM3
+	url = https://github.com/UZ-SLAMLab/ORB_SLAM3.git

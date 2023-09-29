@@ -1,0 +1,6 @@
+ - Measure out the distance to an object, and calibrate to ensure a stable baseline.
+ - Comment on the distance to three additional objects. How accurate are the distance estimates?
+ - Take a video recording of a moving object and run the algorithm on it; compile a graph of the estimated velocities.
+ - Comment on the results, particularly on the errors or perturbations in the readings taken.
+   - May want to plot the FPS and minor perturbations at each time step.
+ - Detail the merits of the algorithm and explain in a few paragraphs how the monocular velocity detection algorithm works.

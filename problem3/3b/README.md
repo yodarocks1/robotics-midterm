@@ -1,0 +1,3 @@
+ - Record a video of a walk in a large loop (indoor or outdoor), and do this circuit several times. Comment on the positional error after several loops.
+ - Submit the video and position graph from the algorithm and your comments on what happened and why you believe this occurred.
+ - Detail the merits of the algorithm and explain in a few paragraphs how the monocular odometry algorithm works.
