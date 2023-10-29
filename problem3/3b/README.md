@@ -1,3 +1,3 @@
- - Record a video of a walk in a large loop (indoor or outdoor), and do this circuit several times. Comment on the positional error after several loops.
- - Submit the video and position graph from the algorithm and your comments on what happened and why you believe this occurred.
- - Detail the merits of the algorithm and explain in a few paragraphs how the monocular odometry algorithm works.
+The algorithm did not go well for our setup as you can see in trajectoryMT.png vs the approximate_actual.png. We used a Logitech C920 camera to capture the video. The first circuit was quite bad, the second was starting to look good, but then dropped off again. Looking at the video the image looks like it is not focusing very well, this may be do to it being a webcam that is trying to auto focus on a closer subject. 
+
+The merits of Visual Odometry are its low cost and you only need one camera. This also makes it portable. Visual Odometry looks at the features between consecutive frames. Features can be corners and parts of the image where the contrast is larger from another piece of the image. The algorithm can guess the motion based on the changes of the features, such as if image gets bigger than you are moving toward the object. Then if the features move left on the screen then you must be turning right and so on. 
