@@ -1,0 +1,10 @@
+output.avi contains my original machine 
+
+original machine 
+framework 13in
+Intel i7-1260P (CPU usage hovered around 30%)
+
+avg of 13fps, dips to 10fps, and highs at 60+ (when not reading a face)
+
+pi 3:
+
