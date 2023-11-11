@@ -8,5 +8,5 @@ Intel i7-1260P (CPU usage hovered around 30%)
 test machine: avg of 13fps, dips to 10fps, and highs at 60+ (when not reading a face)
 
 pi 4: avg of 1fps, dips to 0fps
-CPU shot to around 84%
+CPU runs 25-59% and hovers closer to the higher end around 45%
 
