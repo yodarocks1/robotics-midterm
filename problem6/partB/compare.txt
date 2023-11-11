@@ -1,10 +1,12 @@
 output.avi contains my original machine 
+pi.avi contains the pi (sorry for the dropped frames if you cant adjust playback speed)
 
 original machine 
 framework 13in
 Intel i7-1260P (CPU usage hovered around 30%)
 
-avg of 13fps, dips to 10fps, and highs at 60+ (when not reading a face)
+test machine: avg of 13fps, dips to 10fps, and highs at 60+ (when not reading a face)
 
-pi 3:
+pi 4: avg of 1fps, dips to 0fps
+CPU shot to around 84%
 
