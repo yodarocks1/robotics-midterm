@@ -15,5 +15,5 @@ This would use our Two scripts to detect how the user is feeling, in the event a
 
 The robot could also use the data to change how it response, if a user seems angry or sad it could offer free food or corrections similar to how places do now. 
 
-see the UML in UML.png.
-see the flow chart in Flow.png.
+see the Software Diagram in Software.png.
+see the User Diagram in user.png.
