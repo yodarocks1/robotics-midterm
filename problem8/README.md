@@ -35,3 +35,16 @@ Average FPS: 0.93
 Average CPU Usage: 84.31%
 
 ![](pi.png)
+
+# (d) Mask R-CNN vs Faster R-CNN vs RetinaNet
+
+[Colab Tutorial](https://colab.research.google.com/drive/16jcaJoc6bCFAQ96jDe2HwtXj7BMD_-m5)
+
+### Mask R-CNN
+![](maskrcnn.png)
+
+### Faster R-CNN
+![](fasterrcnn.png)
+
+### RetinaNet
+![](retinanet.png)
